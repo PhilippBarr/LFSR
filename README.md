@@ -15,11 +15,11 @@ As a result we get the table we want
 
 ![LFSR](https://user-images.githubusercontent.com/103950889/221040777-1be5f60a-db69-4097-ba99-d105e7abfb72.PNG)
 
-In the above picture we have a LFSR. The equation for this is x^5+x^2+1
+In the above picture we have a LFSR. The equation for this is ```x^5+x^2+1```
 To run it through our program we enter the values below.
 
-1) Total number of bits: 5
-2) Input each bit: example 00001
-3) Enter the number of bits to be XORed: 2
-4) 2 enter 5 enter
+1) Total number of bits: ```5```
+2) Input each bit: example ```00001```
+3) Enter the number of bits to be XORed: ```2```
+4) ```2``` ```enter``` ```5``` ```enter```
 
