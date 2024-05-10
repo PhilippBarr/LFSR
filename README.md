@@ -3,7 +3,7 @@ Linear Feedback Shift Register
 
 In the following work, a linear feedback shift register is implemented with the C programming language.
 
-For its use it is required
+For its use it is required to:
 
 1) Enter the total number of bits to be used
 2) Input of each bit separately starting from the bit that is in position 0 (after each input, press enter)
